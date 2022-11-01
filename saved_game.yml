@@ -1,0 +1,10 @@
+---
+:hangman: strain
+:word: s _ r a _ _
+:letters_guessed:
+- a
+- e
+- o
+- s
+- r
+:mistakes: 4
